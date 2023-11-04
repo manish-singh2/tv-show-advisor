@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+NOTE : I have used api key which is stored in REACT_APP_API_KEY_PARAM either you have to give your own api seceret key or you can create your own api and connect with it . I have made fake_data.js  file if you cannot use api you can use local data to run this project.
